@@ -14,3 +14,5 @@ def health():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+return f"Hello from Render! Застосунок розгорнув: {student} (Група XXX)"
